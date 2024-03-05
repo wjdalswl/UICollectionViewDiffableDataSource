@@ -1,13 +1,13 @@
 //
-//  SwiftMVVMPatternUITestsLaunchTests.swift
-//  SwiftMVVMPatternUITests
+//  UICollectionViewDiffableDataSourceUITestsLaunchTests.swift
+//  UICollectionViewDiffableDataSourceUITestsLaunchTests
 //
 //  Created by 정민지 on 3/4/24.
 //
 
 import XCTest
 
-final class SwiftMVVMPatternUITestsLaunchTests: XCTestCase {
+final class UICollectionViewDiffableDataSourceUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

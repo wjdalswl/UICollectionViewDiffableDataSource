@@ -1,13 +1,13 @@
 //
-//  SwiftMVVMPatternUITests.swift
-//  SwiftMVVMPatternUITests
+//  UICollectionViewDiffableDataSourceUITests.swift
+//  UICollectionViewDiffableDataSourceUITests
 //
 //  Created by 정민지 on 3/4/24.
 //
 
 import XCTest
 
-final class SwiftMVVMPatternUITests: XCTestCase {
+final class UICollectionViewDiffableDataSourceUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
